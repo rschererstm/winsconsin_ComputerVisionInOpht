@@ -26,7 +26,6 @@ This repository has a translational course plan on computer vision in fundus ima
   - Forms
 
 - Principles of fundus image formation
-- Retinography
   - Composition
   - Zoom
   - Flash
