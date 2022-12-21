@@ -32,7 +32,7 @@ This repository has a translational course plan on computer vision in fundus ima
   - Filters
   - Types of retinography
 
-- Tópicos especiais
+- Special Topics
   - Artifacts in image capture
   - Types of Opacities
   - Anatomical variations of the optic nerve
