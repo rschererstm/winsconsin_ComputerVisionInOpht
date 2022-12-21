@@ -8,33 +8,42 @@ This repository has a translational course plan on computer vision in fundus ima
 
 
 ## TOPICS:
-- Princípios de visão computacional
+- Computer vision principles
+  - ColorSpaces (BGR, GRAY, HSL, CMYK, LAB)
+  - Image file types (DICOM, JPG, PNG)
+  - Histograms
+  - Thresholding
+  - Image Filters
+  - Edge Detection
+  - Contours
+  - Objects Detection
+  - Image Segmentation
 
-- Anatomia.
-  - Relação entre as estruturas oculares
-  - Coloração
-  - Tamanho
-  - Forma
+- Anatomy
+  - Relationship between ocular structures
+  - Colors
+  - Sizes
+  - Forms
 
-- Princípios de formação da imagem em fundo de olho
-   - Retinografia
-    - Enquadramento
-    - Zoom
-    - Iluminação
-    - Filtros
-    - Tipos de retinografia
+- Principles of fundus image formation
+- Retinography
+  - Composition
+  - Zoom
+  - Flash
+  - Filters
+  - Types of retinography
 
 - Tópicos especiais
-  - Artefatos na captura da imagem
-  - Tipos de opacidades de meios
-  - Variações anatômicas do nervo óptico
-  - Variações anatômicas da disposição dos vasos
-  - Variações anatômicas da região macular
-  - Retina e variações étnicas
-  - Principais achados patológicos:
-    - Microhemorragias
-    - Exsudatos
-    - Drusas
-    - Cicatrizes de coriorretinite
-    - Aumento da escavação papilar
-    - etc.
+  - Artifacts in image capture
+  - Types of Opacities
+  - Anatomical variations of the optic nerve
+  - Anatomical variations in vessel arrangement
+  - Anatomical variations of the macular region
+  - Retina and ethnic variations
+  - Main pathological findings:
+    - Microhemorrhages
+    - Exudates
+    - Drusen
+    - Chorioretinitis scars
+    - Large Papillary Excavations
+    - Vascular changes
